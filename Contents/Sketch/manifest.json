@@ -1,0 +1,20 @@
+{
+    "name": "🔓 Unlock Layers",
+    "version": "1.0",
+    "description": "Unlock all layers on the current artboard using ⌘⌥L",
+    "author": "Rad Poznyakov",
+    "authorEmail": "rad.poznyakov@gmail.com",
+    "commands": [{
+        "name": "🔓 Unlock all",
+        "handler": "onRun",
+        "identifier": "unlock",
+        "script": "script.js",
+        "shortcut": "cmd ctrl u"
+    }],
+    "menu": {
+        "isRoot": true,
+        "items": [
+            "unlock"
+        ]
+    }
+}

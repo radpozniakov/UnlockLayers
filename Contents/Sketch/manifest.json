@@ -1,7 +1,7 @@
 {
     "name": "🔓 Unlock Layers",
     "version": "1.0",
-    "description": "Unlock all layers on the current artboard using ⌘⌥L",
+    "description": "Unlock all layers on your artboard",
     "author": "Rad Poznyakov",
     "authorEmail": "rad.poznyakov@gmail.com",
     "commands": [{
